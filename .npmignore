@@ -1,0 +1,5 @@
+assets
+.github
+tsconfig*.json
+src/
+eslintrc.js

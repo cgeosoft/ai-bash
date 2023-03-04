@@ -1,1 +1,1 @@
-# aish
+# ai-bash
